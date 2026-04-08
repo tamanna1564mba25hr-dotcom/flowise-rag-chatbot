@@ -109,7 +109,8 @@ Generated Answer
 - Student study assistant
 - PDF based chatbot
 
----
+---<img width="1907" height="864" alt="Screenshot 2026-04-08 094704" src="https://github.com/user-attachments/assets/c9140a60-83bb-448e-8320-4b771c1d3d95" />
+
 
 ## Future Improvements
 
